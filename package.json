@@ -18,7 +18,13 @@
     "@angular/platform-browser": "~12.0.4",
     "@angular/platform-browser-dynamic": "~12.0.4",
     "@angular/router": "~12.0.4",
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^3.3.7",
+    "firebase": "^8.6.7",
+    "firebase-admin": "^9.9.0",
+    "jquery": "^3.6.0",
     "rxjs": "~6.6.0",
+    "rxjs-compat": "^6.6.7",
     "tslib": "^2.1.0",
     "zone.js": "~0.11.4"
   },
